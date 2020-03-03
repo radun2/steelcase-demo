@@ -1,10 +1,13 @@
 <module type="ActionForm" version="05.01.03">
+    <contentKey />
     <moduleID>406</moduleID>
     <alignment />
     <alltabs>false</alltabs>
     <border />
+    <cachemethod />
     <cachetime>0</cachetime>
     <color />
+    <containersrc />
     <displayprint>true</displayprint>
     <displaysyndicate>false</displaysyndicate>
     <displaytitle>true</displaytitle>
@@ -17,10 +20,11 @@
     <modulepermissions />
     <title>Manufacturer Add Existing Form</title>
     <startdate>0001-01-01T00:00:00</startdate>
-    <uniqueId>8007b3da-0a75-48f8-a2bc-41f31cab8c98</uniqueId>
+    <uniqueId>1fea7185-8b2c-4e04-9d51-5771f4ddf2cb</uniqueId>
     <visibility>Maximized</visibility>
     <websliceexpirydate>0001-01-01T00:00:00</websliceexpirydate>
     <webslicettl>0</webslicettl>
+    <cultureCode />
     <modulesettings />
     <tabmodulesettings />
     <definition>Action Form</definition>
