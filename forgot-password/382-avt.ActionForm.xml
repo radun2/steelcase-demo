@@ -27,7 +27,7 @@
     </modulepermissions>
     <title>Forgot Password</title>
     <startdate>0001-01-01T00:00:00</startdate>
-    <uniqueId>64ad6323-29b8-4457-94bf-8e662ac4fef6</uniqueId>
+    <uniqueId>dd86698a-6681-4f59-a569-953e9a92c5b8</uniqueId>
     <visibility>Maximized</visibility>
     <websliceexpirydate>0001-01-01T00:00:00</websliceexpirydate>
     <webslicettl>0</webslicettl>
@@ -242,7 +242,7 @@
       &lt;IsDeleted&gt;false&lt;/IsDeleted&gt;
       &lt;ActionType&gt;SendResetPassword&lt;/ActionType&gt;
       &lt;OrderIndex&gt;0&lt;/OrderIndex&gt;
-      &lt;LastModified&gt;2020-02-16T22:04:55.747&lt;/LastModified&gt;
+      &lt;LastModified&gt;2020-02-28T20:02:57.487&lt;/LastModified&gt;
       &lt;LastModifiedBy xsi:nil=&quot;true&quot; /&gt;
       &lt;ActionData&gt;{&quot;IdentifierField&quot;:{&quot;Expression&quot;:&quot;&quot;,&quot;Value&quot;:&quot;Username&quot;,&quot;IsExpression&quot;:false},&quot;ResetPasswordPage&quot;:{&quot;Expression&quot;:&quot;/reset-password&quot;,&quot;IsExpression&quot;:true,&quot;Parameters&quot;:{},&quot;Value&quot;:33},&quot;SenderEmail&quot;:&quot;resetpassword@[URL:Domain]&quot;,&quot;TemplateSource&quot;:{&quot;IsExpression&quot;:false,&quot;Expression&quot;:&quot;&quot;,&quot;Parameters&quot;:{},&quot;Value&quot;:&quot;Default&quot;},&quot;TemplateSubject&quot;:&quot;&quot;,&quot;TemplateBody&quot;:&quot;&quot;,&quot;HTMLBody&quot;:&quot;&quot;}&lt;/ActionData&gt;
       &lt;ModuleId&gt;382&lt;/ModuleId&gt;
@@ -255,7 +255,7 @@
       &lt;IsDeleted&gt;false&lt;/IsDeleted&gt;
       &lt;ActionType&gt;ShowMessage&lt;/ActionType&gt;
       &lt;OrderIndex&gt;1&lt;/OrderIndex&gt;
-      &lt;LastModified&gt;2020-02-16T22:04:55.81&lt;/LastModified&gt;
+      &lt;LastModified&gt;2020-02-28T20:02:57.533&lt;/LastModified&gt;
       &lt;LastModifiedBy xsi:nil=&quot;true&quot; /&gt;
       &lt;ActionData&gt;{&quot;Message&quot;:&quot;&amp;lt;h5 style=\&quot;text-align: center;\&quot;&amp;gt;An email was sent to &amp;lt;b&amp;gt;[Username]&amp;lt;/b&amp;gt;.&amp;lt;/h5&amp;gt;&amp;lt;h5 style=\&quot;text-align: center;\&quot;&amp;gt;Please check your inbox and follow the instructions.&amp;amp;nbsp;&amp;lt;/h5&amp;gt;&quot;,&quot;ButtonsList&quot;:{&quot;Expression&quot;:&quot;&quot;,&quot;Value&quot;:[],&quot;IsExpression&quot;:false}}&lt;/ActionData&gt;
       &lt;ModuleId&gt;382&lt;/ModuleId&gt;
